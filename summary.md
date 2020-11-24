@@ -10,7 +10,7 @@
 + [ELEC101003 연구지도 및 연구윤리 / 2020년 1학기 ~ 2학기 / 김민영](https://github.com/skadud8951/omrob)
 + [COMP319001 알고리즘 / 2020년 2학기 / 장길진](https://github.com/skadud8951/algorithm2020)
 + COMP411001 컴퓨터구조 / 2020년 2학기 / 문병인
-+ STAT452005 수치해석 / 2020년 2학기 / 박순용
++ [STAT452005 수치해석 / 2020년 2학기 / 박순용](https://github.com/skadud8951/numerical2020)
 
 ## 자율과제형
 ---------------------
